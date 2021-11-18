@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_array">
+        <item>Суп</item>
+        <item>Борщ</item>
+        <item>Окрошка</item>
+        <item>Шурпа</item>
+    </string-array>
+
+    <string-array name="Second_array">
+        <item>гречка</item>
+        <item>рис</item>
+        <item>картошка</item>
+        <item>макароны</item>
+    </string-array>
+
+    <string-array name="Water_array">
+        <item>сок</item>
+        <item>чай</item>
+        <item>кола</item>
+        <item>компот</item>
+    </string-array>
+
+</resources>
